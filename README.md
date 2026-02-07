@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi there, I'm Sahy 👋
 
 ### Full-Stack Developer | Next.js Enthusiast
